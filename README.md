@@ -3,34 +3,35 @@
 🎓 B.Tech Information Technology Student  
 💻 Aspiring Software Developer  
 🐍 Python & C++ Learner  
-🚀 Exploring Technology, Programming & Software Development
+🚀 Exploring Programming, Web Development & Technology
 
 ---
 
 ## 🌱 About Me
 
 I am a B.Tech Information Technology student passionate about
-learning programming and building useful projects.
+programming, technology, and building useful projects.
 
-I enjoy exploring new technologies, solving programming problems,
+I enjoy learning new concepts, solving programming problems,
 and improving my technical skills through hands-on practice.
 
-My goal is to become a skilled Software Engineer and build
-technology that can solve real-world problems. 🚀
+My goal is to become a skilled Software Engineer and create
+technology that solves real-world problems. 🚀
 
 ---
 
 ## 💻 Technologies & Skills
 
-### Programming
+### 🧑‍💻 Programming
+
 - 🐍 Python
 - 💻 C++
 - 🔵 C
 
-### Tools & Technologies
+### 🛠️ Tools
+
 - 🐙 Git
 - 🐙 GitHub
-- 🌐 HTML & CSS
 - 💻 VS Code
 
 ---
@@ -42,46 +43,69 @@ technology that can solve real-world problems. 🚀
 - 🤖 Artificial Intelligence
 - 🧩 Problem Solving
 - 🚀 Software Development
-- 💡 Building Real-World Projects
-- 🎨 Learning New Technologies
+- 💡 Real-World Projects
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 - 🐍 Python
 - 💻 C++
 - 🌐 Web Development
-- 🧠 Problem Solving
+- 🧠 Data Structures & Problem Solving
 - 🐙 Git & GitHub
 
 ---
 
 ## 🚀 My Learning Journey
 
-B.Tech IT
-→ Programming
-→ Problem Solving
-→ Web Development
-→ Software Development
-→ Artificial Intelligence
-
----
-
-## 🎯 My Career Goals
-
-- 💻 Become a strong programmer
-- 🚀 Build useful real-world projects
-- 🧠 Improve problem-solving skills
-- 🌐 Learn Full Stack Development
-- 🤖 Explore Artificial Intelligence
-- 👩‍💻 Become a Software Engineer
-
----
-
-## 💡 My Developer Philosophy
-
 ```text
+B.Tech IT
+    ↓
+Programming
+    ↓
+Problem Solving
+    ↓
+Web Development
+    ↓
+Software Development
+    ↓
+Artificial Intelligence
+
+## 🎯 Career Goals
+
+💻 Build strong programming fundamentals
+🧠 Improve my problem-solving skills
+🌐 Learn Full Stack Development
+🤖 Explore Artificial Intelligence
+🚀 Build real-world projects
+🏆 Participate in hackathons and technical events
+👩‍💻 Gain internship experience
+🌟 Become a skilled Software Engineer
+
+## 📂 Projects
+🎓 Campus Q&A
+
+A student-focused platform designed to help students
+ask questions, share knowledge, and collaborate with
+their campus community.
+
+Technologies: Next.js, Tailwind CSS, Firebase
+
+##💡 More Projects Coming Soon...
+
+I am continuously learning and building new projects
+to strengthen my development skills. 🚀
+
+##🏆 Learning & Achievements
+
+🎓 B.Tech Information Technology Student
+💻 Learning C++ and Python
+🚀 Exploring project development and hackathons
+🌱 Continuously improving my technical skills
+
+##💡 My Developer Philosophy
+
 LEARN
   ↓
 PRACTICE
@@ -93,3 +117,23 @@ DEBUG
 IMPROVE
   ↓
 REPEAT 🚀
+
+📫 Connect With Me
+
+🐙 GitHub: kavinayaks1605-afk
+
+💼 LinkedIn: https://www.linkedin.com/in/kavinaya-k-s/
+
+##⭐ A Little About Me
+
+I believe that building projects is one of the best ways
+to learn.
+
+I am at the beginning of my developer journey and excited
+to keep learning, experimenting, and creating.
+
+Learn → Build → Experiment → Improve → Repeat 🚀
+
+##⭐ Thanks for Visiting My Profile!
+
+Keep Learning. Keep Building. Keep Growing. 🚀

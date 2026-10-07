@@ -92,19 +92,19 @@ their campus community.
 
 Technologies: Next.js, Tailwind CSS, Firebase
 
-##💡 More Projects Coming Soon...
+## 💡 More Projects Coming Soon...
 
 I am continuously learning and building new projects
 to strengthen my development skills. 🚀
 
-##🏆 Learning & Achievements
+## 🏆 Learning & Achievements
 
 🎓 B.Tech Information Technology Student
 💻 Learning C++ and Python
 🚀 Exploring project development and hackathons
 🌱 Continuously improving my technical skills
 
-##💡 My Developer Philosophy
+## 💡 My Developer Philosophy
 
 LEARN
   ↓
@@ -124,7 +124,7 @@ REPEAT 🚀
 
 💼 LinkedIn: https://www.linkedin.com/in/kavinaya-k-s/
 
-##⭐ A Little About Me
+## ⭐ A Little About Me
 
 I believe that building projects is one of the best ways
 to learn.
@@ -134,6 +134,6 @@ to keep learning, experimenting, and creating.
 
 Learn → Build → Experiment → Improve → Repeat 🚀
 
-##⭐ Thanks for Visiting My Profile!
+## ⭐ Thanks for Visiting My Profile!
 
 Keep Learning. Keep Building. Keep Growing. 🚀
